@@ -1,0 +1,21 @@
+name,index,time,latitude,longitude,rate,price,open_time,close_time
+The Palace Museum,poi1,6,39.9163,116.3972,0.918,40,8:30,15:30
+The Summer Palace,poi2,6,40,116.2755,0.918,20,6:30,18:00
+Tianmen Square,poi3,6,39.9087,116.3975,0.8764,15,8:30,16:30
+Tian Tan,poi4,6,39.5248,116.242,0.8739,34,6:00,20:00
+Yuanming Yuan,poi5,3,40.0081,116.2982,0.8215,10,7:00,19:30
+Beihai Park,poi6,5,39.9254,116.3893,0.8608,10,6:30,21:00
+Beijing National Stadium,poi7,2,39.9929,116.3965,0.7672,50,9:00,17:30
+National Museum of China,poi8,4,39.3051,116.4016,0.9354,0,9:00,16:00
+Nanluoguxiang,poi9,6,39.9379,116.4031,0.7658,0,0:00,23:59
+Badaling Great Wall,poi10,4,40.3598,116.02,0.8753,40,7:00,18:00
+Prince Gong's Mansion,poi11,3,39.9358,116.3865,0.864,40,8:00,17:00
+Renmin Dahuitang,poi12,2,39.905,116.3939,0.7681,30,9:00,14:00
+Happy Valley,poi13,12,39.8678,116.494,0.8606,260,9:00,22:00
+Blue Habour,poi14,3,39.9581,116.4825,0.8679,0,0:00,23:59:00
+798artist area,poi15,6,39.9911,116.5011,0.83,0,10:00,18:00
+Capital Hotel,hotel1,12,39.9141,116.4108,0.88,606,0:00,23:59
+Leo Hostel,hotel2,12,39.9014,116.3994,0.8,239,0:00,23:59
+Beijing International Hotel,hotel3,12,39.9155,116.4349,0.87,651,0:00,23:59
+Beijing Home Youth Hostel,hotel4,12,39.9519,116.412,0.82,152,0:00,23:59
+The Classic Courtyard Hotel,hotel5,12,39.9515,116.4169,0.82,400,0:00,23:59
