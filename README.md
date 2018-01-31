@@ -2,4 +2,4 @@
 
 Q Learning, Deep Q Learning and Double Deep Q Learning
 
-Language: Python, TensorFlow
+Language: Python, with TensorFlow, OpenAI
